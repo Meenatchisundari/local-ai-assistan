@@ -27,3 +27,6 @@ data/charts/*
 # Phase 4 deliverables
 !data/charts/chart4_quality_vs_speed.png
 !data/charts/chart5_ram_vs_quantization.png
+
+# Downloaded tools
+runpodctl.exe
