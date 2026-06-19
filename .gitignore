@@ -5,9 +5,8 @@ __pycache__/
 *.pyo
 .env
 
-# Data outputs (CSVs, charts) - too large for git
+# Data outputs (CSVs) - too large for git
 data/results/
-data/charts/
 
 # Ollama model cache
 .ollama/
@@ -18,3 +17,9 @@ data/charts/
 # Windows
 Thumbs.db
 desktop.ini
+
+# Phase 3 charts - exclude everything in data/charts/ except the 3 final deliverables
+data/charts/*
+!data/charts/chart1_tokens_per_sec.png
+!data/charts/chart2_ram_vs_speed.png
+!data/charts/chart3_quality_radar.png
