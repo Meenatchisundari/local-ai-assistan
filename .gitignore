@@ -35,3 +35,6 @@ runpodctl.exe
 !data/charts/chart6_gpu_tokens_per_sec.png
 !data/charts/chart7_gpu_ram_vs_speed.png
 !data/charts/chart8_gpu_quality_radar.png
+
+# Downloaded tools
+runpodctl.exe
