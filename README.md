@@ -1,4 +1,5 @@
-# Local AI Assistant
+# Local AI Assistant 
+EdgeLLM Bench: Offline Small Language Model Evaluation Platform
 
 **An offline inference and benchmarking system for small language models — built and validated across CPU and GPU hardware tiers, with zero invented numbers.**
 
